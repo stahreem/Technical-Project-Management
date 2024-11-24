@@ -1,5 +1,4 @@
 document.addEventListener("DOMContentLoaded", () => {
-    // Select the arrow button and the sidebar content area
     const arrowButton = document.querySelector(".left-sidebar-black img");
     const sidebar = document.querySelector(".left-sidebar");
     const sidebarContent = document.querySelector(".left-sidebar-content");
